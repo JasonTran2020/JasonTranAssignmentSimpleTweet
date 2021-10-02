@@ -35,6 +35,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Twitter1gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here is another gif to show that I used OAuth.
+
+<img src='Twitter2gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
